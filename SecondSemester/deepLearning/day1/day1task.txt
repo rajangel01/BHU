@@ -1,0 +1,10 @@
+create an array in python of 5x80
+  generate random value between 0 to 3
+  check every value in matrix
+  if random generated value is 0 then replace them with a new random generated value between 0 and 39
+  if 1 then 40 to 59
+  if 2 then 60 to 79
+  else 80 to 95
+
+calculate average of each row
+  generate heatmap of the matrix
